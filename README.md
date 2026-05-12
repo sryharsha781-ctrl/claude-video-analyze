@@ -29,11 +29,11 @@ winget install Gyan.FFmpeg yt-dlp.yt-dlp
 
 # 2. Install the plugin
 #    Option A — Claude Code marketplace (recommended):
-/plugin marketplace add github.com/admin7-1/claude-video-analyze
+/plugin marketplace add github.com/sryharsha781-ctrl/claude-video-analyze
 /plugin install video-analyze
 
 #    Option B — manual:
-git clone https://github.com/admin7-1/claude-video-analyze \
+git clone https://github.com/sryharsha781-ctrl/claude-video-analyze \
   ~/.claude/plugins/video-analyze
 ```
 
