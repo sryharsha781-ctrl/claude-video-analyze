@@ -1,0 +1,16 @@
+{
+  "name": "video-analyze-marketplace",
+  "owner": {
+    "name": "admin7.1"
+  },
+  "plugins": [
+    {
+      "name": "video-analyze",
+      "source": ".",
+      "description": "Analyze local video files and video URLs locally — frames via ffmpeg, transcript via whisper.cpp or YouTube captions. Then Claude reads and answers.",
+      "version": "0.1.0",
+      "category": "media",
+      "keywords": ["video", "ffmpeg", "whisper", "youtube", "transcription"]
+    }
+  ]
+}

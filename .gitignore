@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build / runtime
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Plugin runtime artifacts
+*.log
+.cache/
