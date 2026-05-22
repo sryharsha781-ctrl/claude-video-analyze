@@ -1,6 +1,6 @@
 # video-analyze
 
-> 🛠️ Need a second set of eyes on an AI agent or codebase architecture? I'm running 3 same-day [audit slots](https://buy.stripe.com/cNi8wR5Gj1GzbLt2wz1Fe02) this week — repo + 30-min call by EOD next day.
+> 🛠️ Need a second set of eyes on an AI agent or codebase architecture? I'm running 3 same-day [audit slots](https://buy.stripe.com/cNi8wR5Gj1GzbLt2wz1Fe02) this week — repo + 30-min call by EOD next day. See a sample finding in [this 2am postmortem](docs/POSTMORTEM_2AM_AGENT.md). Want the productized version? Try the [$49 spec bundle](https://buy.stripe.com/aFacN73yb0Cv6r9efh1Fe03) (GitHub PR bot + Code Review API + B2B audit playbook).
 
 
 A Claude Code plugin that lets Claude watch and analyze video — local files **and** video URLs (YouTube, Vimeo, TikTok, X/Twitter, Instagram, Twitch, Reddit, direct `.mp4`, etc.).
