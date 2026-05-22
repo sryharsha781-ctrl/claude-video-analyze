@@ -1,6 +1,6 @@
 # video-analyze
 
-> 🔍 **Building an AI agent?** I'm opening 3 same-day [AI Architecture Audit](https://buy.stripe.com/cNi8wR5Gj1GzbLt2wz1Fe02) slots this week — **$499 each**. Send your repo, get a 3-LLM council audit (Codex + Claude + Gemini) + 30-min walkthrough by EOD next day. [Book here](https://buy.stripe.com/cNi8wR5Gj1GzbLt2wz1Fe02).
+> 🛠️ Need a second set of eyes on an AI agent or codebase architecture? I'm running 3 same-day [audit slots](https://buy.stripe.com/cNi8wR5Gj1GzbLt2wz1Fe02) this week — repo + 30-min call by EOD next day.
 
 
 A Claude Code plugin that lets Claude watch and analyze video — local files **and** video URLs (YouTube, Vimeo, TikTok, X/Twitter, Instagram, Twitch, Reddit, direct `.mp4`, etc.).
